@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BwurgerP2_final</string>
+
+    <string-array name="namaBun">
+        <item>Normal Bun</item>
+        <item>Pretzel Bun</item>
+        <item>Brioche Bun</item>
+        <item>Wheat Bun</item>
+    </string-array>
+</resources>
